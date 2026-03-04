@@ -10,4 +10,7 @@ add_executable(Practice_virtual_02_03 main.cpp
         Dog.h
         Cat.h
         Parrot.h
-        Hamster.h)
+        Hamster.h
+        FileWorker.h
+        ASCIIFileWorker.h
+        BinaryFileWorker.h)
